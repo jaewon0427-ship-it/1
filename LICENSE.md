@@ -1,0 +1,27 @@
+# 라이선스
+
+이 저장소는 문서와 코드에 서로 다른 라이선스를 적용합니다.
+
+## 문서와 양식
+
+별도 표시가 없는 Markdown 문서와 양식은 [Creative Commons 저작자표시 4.0 국제(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ko)에 따라 이용할 수 있습니다.
+
+- 저작자: 신용우
+- 자료명: 사회복지 바이브코딩 스타터팩
+- 원본: https://github.com/YW-Rainbow/welfare-vibecoding-starter
+
+복제, 배포, 수정, 상업적 이용을 모두 할 수 있습니다. 공유할 때는 저작자와 원본을 적절히 표시하고, CC BY 4.0 링크를 제공하며, 수정했다면 그 사실을 밝혀야 합니다.
+
+## 코드
+
+문서 안의 코드 예시와 `plugin.json` 같은 설정 파일은 [MIT 라이선스](LICENSE-CODE)에 따라 이용할 수 있습니다. 모든 복제본이나 코드의 상당 부분에는 `LICENSE-CODE`의 저작권 고지와 허가 문구를 포함해야 합니다.
+
+## 적용하지 않는 자료
+
+링크로 소개한 외부 자료와 별도의 저작자 또는 라이선스가 표시된 제3자 자료에는 해당 자료의 라이선스가 적용됩니다.
+
+`starter/rules/agentic.md`의 "가장 단순한 구현을 고릅니다" 절은 [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)(MIT License, Copyright (c) Dietrich Gebert)의 원칙을 사회복지 앱에 맞게 고쳐 쓴 것입니다.
+
+## 책임 제한
+
+이 저장소는 법률 자문을 제공하지 않습니다. 문서와 코드는 어떠한 보증도 없이 제공되며, 사용으로 발생한 결과에 대해 작성자와 기여자는 책임지지 않습니다.
